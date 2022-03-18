@@ -7,6 +7,15 @@
  
  
  👯 Adoro desenvolver e me sinto realizado nessa profissão, uma das maiores felicidades é um push bem sucedido :D 
+ 
+ 
+ Principais tecnologias
+ Tecnologia   | Tempo de Experiencia
+------------- | ---------------------
+React JS      | 3 anos
+java          | 5 anos
+Rails         | 1 ano
+Elixir        | 1 ano
 <!--
 **DeivideD/DeivideD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
