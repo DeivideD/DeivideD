@@ -4,6 +4,9 @@
  💬 Bacharel em ciências da computação, atuo a mais de 8 anos como desenvolvedore analista de sistemas, buscando sempre novos desafios e a oportunidade de troca de experiencias, acredito fortemente que a essência do conhecimento estar no ato de repassar, busco sempre aprender e compartilhar experiencias e aprendizados ao longo da jornada.
  
  🌱 Atualmente cursando especialização em desenvovimento de software e sempre estudando pela Udemy e Rocketseat
+ 
+ 
+ 👯 Adoro desenvolver e me sinto realizado nessa profissão, uma das maiores felicidades é um push bem sucedido :D 
 <!--
 **DeivideD/DeivideD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
