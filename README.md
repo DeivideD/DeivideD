@@ -6,7 +6,7 @@
  🌱 Atualmente cursando especialização em desenvovimento de software e sempre estudando pela Udemy e Rocketseat
  
  
- 👯 Adoro desenvolver e me sinto realizado nessa profissão, uma das maiores felicidades é um push bem sucedido :D 
+ 👯 Adoro desenvolver e me sinto realizado nessa profissão, uma das maiores felicidades é um rebase sem conflitos :D 
  
  
 ### 🔭 Principais tecnologias
