@@ -7,7 +7,7 @@
 **Desenvolvedor Full Stack · 8+ anos de experiência**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deivide--duarte-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivide-duarte/)
-[![Fortaleza](https://img.shields.io/badge/📍Brasil-green?style=for-the-badge)](https://github.com/DeivideD)
+[![Fortaleza](https://img.shields.io/badge/📍_Fortaleza-CE,_Brasil-green?style=for-the-badge)](https://github.com/DeivideD)
 
 </div>
 
@@ -27,12 +27,12 @@ Acredito que o conhecimento cresce quando compartilhado — por isso busco apren
 
 | Tecnologia | Experiência |
 |---|---|
-| ☕ Java | 10 anos |
-| 💎 Ruby on Rails | 6 anos |
+| ☕ Java | 5 anos |
+| 💎 Ruby on Rails | 4 anos |
 | ⚛️ React JS | 4 anos |
-| 🗄️ SQL | 10 anos |
-| 🔮 Elixir | 3 ano |
-| 🟨 JavaScript | 6 anos |
+| 🗄️ SQL | 6 anos |
+| 🔮 Elixir | 1 ano |
+| 🟨 JavaScript | 4 anos |
 
 </div>
 
@@ -67,9 +67,11 @@ Funcionalidades implementadas:
 
 <div align="center">
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeivideD&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=DeivideD&theme=dark&hide_border=true&locale=pt_BR)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeivideD&theme=github_dark)
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeivideD&layout=compact&langs_count=7&theme=dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeivideD&theme=github_dark)
 
 </div>
 
