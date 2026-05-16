@@ -5,7 +5,7 @@
 **Desenvolvedor Full Stack · 8+ anos de experiência**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deivide--duarte-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivide-duarte/)
-[![Fortaleza](https://img.shields.io/badge/📍_Fortaleza-CE,_Brasil-green?style=for-the-badge)](https://github.com/DeivideD)
+[![Fortaleza](https://img.shields.io/badge/📍_Brasil-green?style=for-the-badge)](https://github.com/DeivideD)
 
 </div>
 
