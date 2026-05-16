@@ -1,11 +1,13 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A800&center=true&width=500&lines=Full+Stack+Developer+%7C+8%2B+anos;Java+%7C+Ruby+on+Rails+%7C+React+%7C+Elixir;Fortaleza%2C+CE+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+
 # David Duarte
 
 **Desenvolvedor Full Stack · 8+ anos de experiência**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deivide--duarte-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivide-duarte/)
-[![Fortaleza](https://img.shields.io/badge/📍_Brasil-green?style=for-the-badge)](https://github.com/DeivideD)
+[![Fortaleza](https://img.shields.io/badge/📍Brasil-green?style=for-the-badge)](https://github.com/DeivideD)
 
 </div>
 
@@ -25,13 +27,12 @@ Acredito que o conhecimento cresce quando compartilhado — por isso busco apren
 
 | Tecnologia | Experiência |
 |---|---|
-| ☕ Java | 8 anos |
-| 💎 Ruby on Rails | 7 anos |
-| ⚛️ React JS | 5 anos |
-| 🗄️ SQL | 10 anos |
-| 🔮 Elixir | 2 ano |
-| 🟨 JavaScript | 6 anos |
- 
+| ☕ Java | 5 anos |
+| 💎 Ruby on Rails | 4 anos |
+| ⚛️ React JS | 4 anos |
+| 🗄️ SQL | 6 anos |
+| 🔮 Elixir | 1 ano |
+| 🟨 JavaScript | 4 anos |
 
 </div>
 
