@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Bacharel em Ciências da Computação com mais de **8 anos** atuando como desenvolvedor e analista de sistemas. Atualmente no time de engenharia da **Total Pass**, desenvolvendo soluções full stack em produção.
+Bacharel em Ciências da Computação com mais de **10 anos** atuando como desenvolvedor e analista de sistemas. Atualmente no time de engenharia da **Total Pass**, desenvolvendo soluções full stack em produção.
 
 Acredito que o conhecimento cresce quando compartilhado — por isso busco aprender, contribuir e colaborar a cada projeto. Nada melhor que um rebase sem conflitos 🚀
 
