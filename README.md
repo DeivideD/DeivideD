@@ -27,12 +27,12 @@ Acredito que o conhecimento cresce quando compartilhado — por isso busco apren
 
 | Tecnologia | Experiência |
 |---|---|
-| ☕ Java | 5 anos |
-| 💎 Ruby on Rails | 4 anos |
+| ☕ Java | 10 anos |
+| 💎 Ruby on Rails | 6 anos |
 | ⚛️ React JS | 4 anos |
-| 🗄️ SQL | 6 anos |
-| 🔮 Elixir | 1 ano |
-| 🟨 JavaScript | 4 anos |
+| 🗄️ SQL | 10 anos |
+| 🔮 Elixir | 3 ano |
+| 🟨 JavaScript | 6 anos |
 
 </div>
 
